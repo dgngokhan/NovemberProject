@@ -5,5 +5,6 @@ public class Superman {
         System.out.println("Employee ID: 12345");
         System.out.println("Job Title: Driver");
         System.out.println("Salary: $100000");
+        System.out.println("Salary: $190000");
     }
 }
